@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Event Management system](https://event-managements-forums.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left">
 <a href="https://linkedin.com/in/robiul islam siyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robiul islam siyam" height="30" width="40" /></a>
 <a href="https://fb.com/md robiul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md robiul islam" height="30" width="40" /></a>
