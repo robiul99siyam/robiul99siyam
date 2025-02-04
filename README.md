@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/795630db-6322-40d1-a2ad-91bd61a0ecfc" style="height: 400px; width: 100%;">
+<img src="https://github.com/user-attachments/assets/1a333f99-60b2-4ee7-9ee9-5bc33550b01d" height="300">
+
 
 
 <h1 align="center">Hi 👋, I'm Siyam Robiul Islam</h1>
