@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/795630db-6322-40d1-a2ad-91bd61a0ecfc" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/795630db-6322-40d1-a2ad-91bd61a0ecfc" style="height: 300px; width: 100%;">
 
 
 <h1 align="center">Hi 👋, I'm Siyam Robiul Islam</h1>
