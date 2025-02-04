@@ -1,4 +1,5 @@
-![Image](https://github.com/user-attachments/assets/795630db-6322-40d1-a2ad-91bd61a0ecfc)
+<img src="https://github.com/user-attachments/assets/795630db-6322-40d1-a2ad-91bd61a0ecfc" style="height: 300px; width: auto;">
+
 
 <h1 align="center">Hi 👋, I'm Siyam Robiul Islam</h1>
 <h3 align="center">A passionate Backend Developer from Bangladesh</h3>
